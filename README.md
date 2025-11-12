@@ -8,4 +8,4 @@
 
 ## Marzban Panel Dashboard Link
 
-`http://Your_Server_Public_IP:8000/dashboard/`
+`http://Your_Server_Public_IP:8001/dashboard/`
